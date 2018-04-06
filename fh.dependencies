@@ -1,10 +1,5 @@
 [
   {
-    "repository": "ValidusOs-Devices/device_motorola_sanders",
-    "target_path": "device/motorola/sanders",
-    "branch": "8.1"
-  },
-  {
     "repository": "BigTopKrazies/vendor_motorola_sanders",
     "target_path": "vendor/motorola/sanders",
     "branch": "8.1"
