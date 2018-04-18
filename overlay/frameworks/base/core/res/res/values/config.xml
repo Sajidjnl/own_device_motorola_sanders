@@ -310,8 +310,4 @@
    <!-- Should the pinner service pin the Camera application? -->
    <bool name="config_pinnerCameraApp">true</bool>
 
-   <integer name="config_deviceHardwareKeys">83</integer> 
-
-   <bool name="config_hasTurboPowerCharger">true</bool>
-
 </resources>
